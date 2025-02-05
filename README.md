@@ -3,7 +3,9 @@
 
 📌 Project Overview
 
-    This project builds a Reinforcement Learning (RL) environment that simulates a government managing healthcare policies. The goal is to train an AI agent that optimizes healthcare levels, manages budgets, and minimizes health risks while navigating elections every 5 years. The agent must make strategic decisions to balance investments in healthcare, education, and financial reserves while ensuring long-term sustainability.
+This project builds a Reinforcement Learning (RL) environment that simulates a government managing healthcare policies. 
+The goal is to train an AI agent that optimizes healthcare levels, manages budgets, and minimizes health risks while navigating elections every 5 years. 
+The agent must make strategic decisions to balance investments in healthcare, education, and financial reserves while ensuring long-term sustainability.
 
 🎯 Key Objectives
 
