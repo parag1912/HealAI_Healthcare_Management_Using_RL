@@ -2,9 +2,11 @@
 🚀 Optimizing Healthcare Policies with AI
 
 📌 Project Overview
+
     This project builds a Reinforcement Learning (RL) environment that simulates a government managing healthcare policies. The goal is to train an AI agent that optimizes healthcare levels, manages budgets, and minimizes health risks while navigating elections every 5 years. The agent must make strategic decisions to balance investments in healthcare, education, and financial reserves while ensuring long-term sustainability.
 
 🎯 Key Objectives
+
     ✔ Improve healthcare quality by making optimal decisions.
     ✔ Minimize health risks to prevent pandemics.
     ✔ Manage a limited budget efficiently.
@@ -12,6 +14,7 @@
 
 📦 Project Components
 🔹 Custom Reinforcement Learning Environment (Health_Env.py)
+
     State Space:
     budget 💰 (resources available for spending)
     health_level 🏥 (quality of healthcare in the system)
@@ -28,6 +31,7 @@
     Severe penalties for pandemics if risks exceed a threshold.
 
 🔹 Reinforcement Learning Agents (Algorithms.py)
+
     🤖 1. Q-learning with Value Function Approximation (VFA)
     Uses linear approximation to learn the best policies.
     Epsilon-greedy action selection (chooses best action most of the time but explores occasionally).
@@ -38,18 +42,22 @@
     Trains on past experiences to improve decision-making over time.
 
 📊 Results & Performance
+
     -The agent learns over time to invest efficiently in healthcare.
     -Election survival rate improves as the model optimizes health-risk balance.
     -The Deep Q-Learning agent outperforms basic Q-learning in complex scenarios.
 
 📜 License
+
     This project is licensed under the MIT License. See the LICENSE file for details.
 
 🤝 Contributing
-We welcome contributions! Feel free to submit a pull request or open an issue for discussion.
+
+    We welcome contributions! Feel free to submit a pull request or open an issue for discussion.
 
 👨‍💻 Authors
-Parag Patel Linkedin - https://www.linkedin.com/in/parag1912/
-Aditi Patil Linkedin - https://www.linkedin.com/in/aditi-patil-7a4a3b221/
+
+    Parag Patel Linkedin - https://www.linkedin.com/in/parag1912/
+    Aditi Patil Linkedin - https://www.linkedin.com/in/aditi-patil-7a4a3b221/
 
 🚀 Let's build smarter healthcare policies with AI! 💡✨
