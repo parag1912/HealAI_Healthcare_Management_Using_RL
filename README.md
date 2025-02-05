@@ -59,5 +59,6 @@
 
     Parag Patel Linkedin - https://www.linkedin.com/in/parag1912/
     Aditi Patil Linkedin - https://www.linkedin.com/in/aditi-patil-7a4a3b221/
+    Isha Parab Linkedin - https://www.linkedin.com/in/ishaparab/
 
 🚀 Let's build smarter healthcare policies with AI! 💡✨
